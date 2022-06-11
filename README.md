@@ -1,0 +1,1 @@
+If not mac environment, there are few packages need to be installed, kindly refer to learnweb3.io
